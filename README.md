@@ -43,5 +43,5 @@ Root       : KernelSU  |  Magisk + LSPosed  |  APatch
 ---
 
 <div align="center">
-  <sub>Built by <b>ZeroTrace Engineering</b> â€” System-Level Android Solutions</sub>
+  <sub>Built by <b>ZeroTrace Engineering</b> - System-Level Android Solutions</sub>
 </div>
