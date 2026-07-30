@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ðŸ›¡ï¸ ZEROTRACE HQ
+  # ZEROTRACE HQ
   ### *Advanced Android System Architecture & Privacy Engineering*
 
   <p align="center">
@@ -21,35 +21,35 @@
   ---
 </div>
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 | Project | Description | Frameworks | Live Website | Status |
 | :--- | :--- | :--- | :---: | :---: |
-| ðŸ›¡ï¸ **[WA-RuntimeKit](https://github.com/zerotrace-hq/WA-RuntimeKit)** | Stealth, media quality, and privacy enhancement engine for WhatsApp & WhatsApp Business | YukiHookAPI â€¢ DexKit â€¢ Compose | ðŸŒ [Visit Site](https://wa-runtime-kit.vercel.app) | `v1.2.0` |
-| ðŸŒ **[WA-RuntimeKit-Website](https://github.com/zerotrace-hq/WA-RuntimeKit-Website)** | Next.js 15 product landing page with matrix preloader and static export | Next.js 15 â€¢ TypeScript â€¢ OKLCH | ðŸŒ [wa-runtime-kit.vercel.app](https://wa-runtime-kit.vercel.app) | `v1.2.0` |
+| **[WA-RuntimeKit](https://github.com/zerotrace-hq/WA-RuntimeKit)** | Stealth, media quality, and privacy enhancement engine for WhatsApp & WhatsApp Business | YukiHookAPI • DexKit • Compose | [Visit Site](https://wa-runtime-kit.vercel.app) | `v1.2.0` |
+| **[WA-RuntimeKit-Website](https://github.com/zerotrace-hq/WA-RuntimeKit-Website)** | Next.js 15 product landing page with matrix preloader and static export | Next.js 15 • TypeScript • OKLCH | [wa-runtime-kit.vercel.app](https://wa-runtime-kit.vercel.app) | `v1.2.0` |
 
 ---
 
-## âš¡ Technical Specializations
+## Technical Specializations
 
-- ðŸ§¬ **LSPosed & Zygisk Hooking:** Dynamic DEX bytecode scanning with DexKit 2.1.0 for update resilience across WhatsApp releases.
-- ðŸ›¡ï¸ **Stealth & Anti-Detection:** Multi-layer active defenses against procfs inspection, reflection checks, and system property heuristics.
-- ðŸŽ¨ **Modern Android UI/UX:** High-craft Jetpack Compose Material 3 interfaces with dynamic light/dark theming and spring physics.
-- ðŸ”§ **Root & Subsystem Tools:** Targeted optimizations for KernelSU, APatch, and Magisk environments.
+- **LSPosed & Zygisk Hooking:** Dynamic DEX bytecode scanning with DexKit 2.1.0 for update resilience across WhatsApp releases.
+- **Stealth & Anti-Detection:** Multi-layer active defenses against procfs inspection, reflection checks, and system property heuristics.
+- **Modern Android UI/UX:** High-craft Jetpack Compose Material 3 interfaces with dynamic light/dark theming and spring physics.
+- **Root & Subsystem Tools:** Targeted optimizations for KernelSU, APatch, and Magisk environments.
 
 ---
 
-## ðŸ› ï¸ Ecosystem Stack
+## Ecosystem Stack
 
 ```
-Languages  : Kotlin â€¢ TypeScript â€¢ C/C++ â€¢ Java
-Frameworks : Jetpack Compose â€¢ YukiHookAPI â€¢ DexKit â€¢ Next.js 15
-Security   : Procfs Masking â€¢ SystemProperties Spoofing â€¢ Java Reflection Interceptors
-Target OS  : Android 8.0 to Android 15 (API 26â€“35)
+Languages  : Kotlin • TypeScript • C/C++ • Java
+Frameworks : Jetpack Compose • YukiHookAPI • DexKit • Next.js 15
+Security   : Procfs Masking • SystemProperties Spoofing • Java Reflection Interceptors
+Target OS  : Android 8.0 to Android 15 (API 26–35)
 ```
 
 ---
 
 <div align="center">
-  <sub>Â© <b>ZeroTrace Engineering</b> â€¢ System-Level Android Solutions</sub>
+  <sub>© <b>ZeroTrace Engineering</b> • System-Level Android Solutions</sub>
 </div>
