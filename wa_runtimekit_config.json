@@ -1,0 +1,9 @@
+{
+    "changelog":  "v1.1.0 Major Update: 3-mode anti-revoke, anti-disappearing messages, extended delete limit, edit history, ghost status view, and original quality send.",
+    "apk_url":  "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.1.0/WA_RuntimeKit_v1.1.0_release.apk",
+    "force_update":  false,
+    "silent_root_update":  true,
+    "latest_version_code":  2,
+    "min_required_version_code":  1,
+    "latest_version_name":  "1.1.0"
+}
