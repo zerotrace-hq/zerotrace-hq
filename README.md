@@ -4,9 +4,6 @@
   ### *Advanced Android System Architecture & Privacy Engineering*
 
   <p align="center">
-    <a href="https://wa-runtime-kit.vercel.app">
-      <img src="https://img.shields.io/badge/Official%20Website-wa--runtime--kit.vercel.app-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-    </a>
     <a href="https://github.com/zerotrace-hq/WA-RuntimeKit">
       <img src="https://img.shields.io/badge/Project-WA%20RuntimeKit-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WA RuntimeKit" />
     </a>
