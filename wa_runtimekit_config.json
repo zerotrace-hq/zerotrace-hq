@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 4,
+  "latest_version_code": 5,
   "latest_version_name": "1.2.1",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.2.0/WA_RuntimeKit_v1.2.0_release.apk",
-  "changelog": "v1.2.1 Update: Added package queries for Android 11+ WhatsApp Business detection & instant UI hook status sync.",
+  "apk_url": "https://wa-runtime-kit.vercel.app/WA_RuntimeKit_v1.2.0_release.apk",
+  "changelog": "v1.2.1 Update: Android 11+ WhatsApp Business detection & instant UI hook status sync.",
   "force_update": false,
   "auto_update": false
 }
