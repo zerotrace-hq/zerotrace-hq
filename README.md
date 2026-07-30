@@ -26,7 +26,6 @@
 | Project | Description | Frameworks | Live Website | Status |
 | :--- | :--- | :--- | :---: | :---: |
 | **[WA-RuntimeKit](https://github.com/zerotrace-hq/WA-RuntimeKit)** | Stealth, media quality, and privacy enhancement engine for WhatsApp & WhatsApp Business | YukiHookAPI • DexKit • Compose | [Visit Site](https://wa-runtime-kit.vercel.app) | `v1.2.0` |
-| **[WA-RuntimeKit-Website](https://github.com/zerotrace-hq/WA-RuntimeKit-Website)** | Next.js 15 product landing page with matrix preloader and static export | Next.js 15 • TypeScript • OKLCH | [wa-runtime-kit.vercel.app](https://wa-runtime-kit.vercel.app) | `v1.2.0` |
 
 ---
 
