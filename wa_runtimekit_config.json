@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 18,
-  "latest_version_name": "1.4.0",
+  "latest_version_code": 19,
+  "latest_version_name": "1.4.1",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.4.0/WA_RuntimeKit_1.4.0_release.apk",
-  "changelog": "v1.4.0: Enhanced engine hook stability, anti-revoke tracking improvements & performance fixes.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.4.1/WA_RuntimeKit_1.4.1_release.apk",
+  "changelog": "v1.4.1: WA RuntimeKit branding & logo update, enhanced engine hook stability & performance optimizations.",
   "force_update": false,
   "auto_update": false
 }
