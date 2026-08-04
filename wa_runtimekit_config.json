@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 24,
-  "latest_version_name": "1.4.6",
+  "latest_version_code": 25,
+  "latest_version_name": "1.4.7",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.4.6/WA_RuntimeKit_1.4.6_release.apk",
-  "changelog": "v1.4.6 UI/UX Overhaul: Complete redesign matching our brand identity! Features a sleek stealth dark theme, WhatsApp neon green highlights, dark glass toolbar header, dark elevated bento/container cards, and an OLED-optimized visual layout. 100% logic & feature parity preserved.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.4.7/WA_RuntimeKit_1.4.7_release.apk",
+  "changelog": "v1.4.7: Fixed OTA update checker to query zerotrace-hq/WA-RuntimeKit releases API instead of legacy repo. Includes full v1.4.6 UI/UX stealth dark redesign!",
   "force_update": false,
   "auto_update": false
 }
