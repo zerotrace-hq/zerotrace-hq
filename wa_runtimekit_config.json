@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 32,
-  "latest_version_name": "1.5.4",
+  "latest_version_code": 33,
+  "latest_version_name": "1.5.5",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.4/WA_RuntimeKit_1.5.4_release.apk",
-  "changelog": "## What's New in v1.5.4\n\n### \ud83d\udce6 Smooth In-App Package Installation Fix\n- **Added `REQUEST_INSTALL_PACKAGES` permission:** Fixed missing manifest permission that caused the package installer prompt to freeze or be blocked on Android 8.0+.\n- **Unknown Sources Direct Prompt:** If installation permission is not granted, the app now directs you straight to system settings (`ACTION_MANAGE_UNKNOWN_APP_SOURCES`) to toggle permission.\n- **Smart Click Handling:** Tapping the update card when download is complete re-launches the installer directly instead of re-downloading.\n\n### \u26a1 100% Update Check Reliability Fix\n- **User-Agent Header Added:** Added custom User-Agent headers to eliminate GitHub API 403 Forbidden blocks.\n- **Multi-Tier CDN Fallback:** Bypasses GitHub API IP rate limits by querying CDN (`raw.githubusercontent.com`) first.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.5/WA_RuntimeKit_1.5.5_release.apk",
+  "changelog": "## What's New in v1.5.5\n\n### \ud83e\udded Navigation Bar Vertical Alignment Fix\n- Restored clean native Material 3 pill indicator (`@color/brand_green_subtle`) directly inside `BottomNavigationView`.\n- Fixed vertical icon alignment and pill background bleeding on custom screen densities.",
   "force_update": false,
   "auto_update": false
 }
