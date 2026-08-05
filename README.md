@@ -1,5 +1,9 @@
 <div align="center">
 
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=zerotrace-hq&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views" />
+  </p>
+
   # ZEROTRACE HQ
   ### *Advanced Android System Architecture & Privacy Engineering*
 
@@ -7,7 +11,6 @@
     <img src="https://img.shields.io/badge/Focus-Android%20Runtime%20Engineering-047857?style=for-the-badge&logo=android&logoColor=white" alt="Focus" />
     <img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Compose%20%7C%20LSPosed-111827?style=for-the-badge" alt="Stack" />
     <img src="https://img.shields.io/badge/Status-Active%20R%26D-047857?style=for-the-badge" alt="Status" />
-    <img src="https://komarev.com/ghpvc/?username=zerotrace-hq&label=Profile%20Views&color=047857&style=for-the-badge" alt="Profile Views" />
   </p>
 
   <p align="center">
