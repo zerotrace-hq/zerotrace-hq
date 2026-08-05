@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 30,
-  "latest_version_name": "1.5.2",
+  "latest_version_code": 31,
+  "latest_version_name": "1.5.3",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.2/WA_RuntimeKit_1.5.2_release.apk",
-  "changelog": "## What's New in v1.5.2\n\n### \ud83c\udfa8 Card Color Overhaul (Light Mode)\n- Status cards (Module Enabled, WhatsApp, Business) now use frosted light tint in light mode instead of very dark deep greens\n- Each card state has a proper light/dark mode variant (Success, Error, Warning, Update)\n- Card text and icons are now dark green in light mode for crisp contrast\n\n### \ud83d\udce5 In-App Download Progress\n- Tapping Update Available now shows a live progress bar inside the card with percentage & MB downloaded\n- Launches installer automatically upon download completion",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.3/WA_RuntimeKit_1.5.3_release.apk",
+  "changelog": "## What's New in v1.5.3\n\n### \ud83d\uddbc\ufe0f Fiverr-Style Crisp Borders Everywhere\n- Added solid, crisp 1.5dp borders to all status cards (Module Enabled, WhatsApp, Business, Update Available)\n- Added crisp 1dp outline borders (`#CBD5E1`) to all Info Cards, Diagnostics Cards, and Backup Cards\n- Reduced card corner radius to 12dp/16dp for a tight, modern aesthetic\n\n### \ud83c\udf0a Fluid Pill Navigation Bar\n- Upgraded bottom navigation bar to a Fluid Pill format (64dp wide x 36dp high smooth rounded indicator)\n- Elevated bottom navigation container with smooth 70dp layout density",
   "force_update": false,
   "auto_update": false
 }
