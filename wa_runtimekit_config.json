@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 29,
-  "latest_version_name": "1.5.1",
+  "latest_version_code": 30,
+  "latest_version_name": "1.5.2",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.1/WA_RuntimeKit_1.5.1_release.apk",
-  "changelog": "v1.5.1 Update: Removed app logo from header bars for a clean text-only header, fixed top toolbar icon visibility in Light Mode (Search, Battery, About icons are now sharp and high-contrast), and enabled ViewPager2 page caching for instant tab switching.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.2/WA_RuntimeKit_1.5.2_release.apk",
+  "changelog": "## What's New in v1.5.2\n\n### \ud83c\udfa8 Card Color Overhaul (Light Mode)\n- Status cards (Module Enabled, WhatsApp, Business) now use frosted light tint in light mode instead of very dark deep greens\n- Each card state has a proper light/dark mode variant (Success, Error, Warning, Update)\n- Card text and icons are now dark green in light mode for crisp contrast\n\n### \ud83d\udce5 In-App Download Progress\n- Tapping Update Available now shows a live progress bar inside the card with percentage & MB downloaded\n- Launches installer automatically upon download completion",
   "force_update": false,
   "auto_update": false
 }
