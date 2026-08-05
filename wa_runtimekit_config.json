@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 50,
-  "latest_version_name": "2.0.0",
+  "latest_version_code": 51,
+  "latest_version_name": "2.0.1",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.0/WA_RuntimeKit_2.0.0_release.apk",
-  "changelog": "## WA RuntimeKit v2.0.0 Initial Release\n\n- Undetectable, stealth-first LSPosed Xposed module\n- Protocol-level Anti-Revoke & Stealth Read Receipts\n- Multi-Accent Palette (Emerald, Indigo, Amber)\n- Adaptive Floating Bottom Navigation",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.1/WA_RuntimeKit_2.0.1_release.apk",
+  "changelog": "## WA RuntimeKit v2.0.1 Update\n\n- Single-Line Action Button Centering in Update Dialog\n- Automated Versioning in About Modal\n- Clean Tools Page Text Alignment & Zero Overlap\n- WAEnhancer (Dev4Mod) Open-Source Attribution",
   "force_update": false,
   "auto_update": false
 }
