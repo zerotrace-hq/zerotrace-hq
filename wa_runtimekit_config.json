@@ -3,7 +3,7 @@
   "latest_version_name": "1.6.0",
   "min_required_version_code": 1,
   "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.6.0/WA_RuntimeKit_1.6.0_release.apk",
-  "changelog": "## What's New in v1.6.0 \u2014 Jetpack Compose Expressive UI\n\n### \ud83c\udfa8 Brand New Expressive Jetpack Compose UI\n- **100% Jetpack Compose UI Engine:** Replaced legacy XML layouts and preference screens with a modern, high-performance Jetpack Compose architecture.\n- **Signature Runtime Pulse Command Center:** Integrated an animated radial health ring (98%) and top emerald telemetry status strip.\n- **Bento Grid Layout:** Intelligent 1-column (phone) and 2-column (tablet) bento card layout.\n- **Subtle Frosted Acrylic Surfaces:** Elevated 24dp rounded cards with subtle 1dp whisper strokes.\n- **Expressive Micro-Interactions & Switches:** Tactile scale-down press feedback (0.97f) and 180\u00b0 rotating checkmark toggle switches.\n- **Floating Morphing Navigation Bar:** Decoupled floating navigation bar featuring smooth pill indicator transitions.",
+  "changelog": "## What's New in v1.6.0 \u2014 Jetpack Compose Expressive UI\n\n- Complete Jetpack Compose Expressive UI redesign\n- Signature Runtime Pulse Command Center & telemetry strip\n- Bento Grid Layout & subtle frosted acrylic cards\n- Floating morphing navigation bar",
   "force_update": false,
   "auto_update": false
 }
