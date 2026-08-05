@@ -1,1 +1,9 @@
-{"changelog":"## Messenger RuntimeKit v1.0.0\n\nInitial release with 28 privacy and enhancement features for Facebook Messenger.","apk_url":"https://github.com/zerotrace-hq/Messenger-RuntimeKit/releases/download/v1.0.0/Messenger_RuntimeKit_1.0.0_release.apk","force_update":false,"auto_update":false,"latest_version_code":1,"min_required_version_code":1,"latest_version_name":"1.0.0"}
+{
+  "latest_version_code": 1,
+  "latest_version_name": "1.0.0",
+  "min_required_version_code": 1,
+  "apk_url": "https://github.com/zerotrace-hq/Messenger-RuntimeKit/releases/download/v1.0.0/Messenger-RuntimeKit-v1.0.0.apk",
+  "changelog": "Initial official release v1.0.0 with 30 features, 6-layer anti-detection, and Messenger Blue Jetpack Compose UI.",
+  "force_update": false,
+  "auto_update": true
+}
