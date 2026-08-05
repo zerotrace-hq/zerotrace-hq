@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 52,
-  "latest_version_name": "2.0.2",
+  "latest_version_code": 53,
+  "latest_version_name": "2.0.3",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.2/WA_RuntimeKit_2.0.2_release.apk",
-  "changelog": "## WA RuntimeKit v2.0.2 Update\n\n- Auto Call Recording & Toast Toggles under Call Protection & Recording\n- Single-Line Action Button Centering in Update Dialog\n- Auto-Sync Versioning in About Modal\n- Clean Tools Page Layout & Zero Overlap",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.3/WA_RuntimeKit_2.0.3_release.apk",
+  "changelog": "## WA RuntimeKit v2.0.3 Update\n\n- In-App APK Downloader with Live Progress Bar & Telemetry\n- Automatic Package Installer launch upon completion\n- Direct Unsaved Chat Header Icon Toggle Card in General Screen",
   "force_update": false,
   "auto_update": false
 }
