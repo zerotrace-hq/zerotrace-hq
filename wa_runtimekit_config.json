@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 27,
-  "latest_version_name": "1.4.9",
+  "latest_version_code": 28,
+  "latest_version_name": "1.5.0",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.4.9/WA_RuntimeKit_1.4.9_release.apk",
-  "changelog": "v1.4.9 Branding & Theme Update: Set Light Mode as default out-of-the-box theme with seamless Light/Dark theme toggle in General Settings. Rebranded 100% of app references to ZeroTrace & WA RuntimeKit.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.0/WA_RuntimeKit_1.5.0_release.apk",
+  "changelog": "v1.5.0 Update: Integrated direct in-app APK download & package installation. Tapping \"Update Available\" on the home card now downloads the update directly to your phone and launches the package installer without opening GitHub in a browser.",
   "force_update": false,
   "auto_update": false
 }
