@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 44,
-  "latest_version_name": "1.7.0",
+  "latest_version_code": 50,
+  "latest_version_name": "2.0.0",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.7.0/WA_RuntimeKit_1.7.0_release.apk",
-  "changelog": "## WA RuntimeKit v1.7.0 \u2014 UI Refresh & Update Checker\n\n- Compact Card & Sub-Option Density\n- 3-Accent Color Palette\n- Centered Floating Navigation\n- App Updates Card on Tools Screen",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.0/WA_RuntimeKit_2.0.0_release.apk",
+  "changelog": "## WA RuntimeKit v2.0.0 Major Release\n\n- 100% Operational Health Telemetry\n- Compact Action Buttons across entire app\n- Per-Page Dynamic Nav Bar Accents (Amber for Style, Indigo for General, Emerald for Privacy)\n- Brand New Clean Repository",
   "force_update": false,
   "auto_update": false
 }
