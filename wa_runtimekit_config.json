@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 31,
-  "latest_version_name": "1.5.3",
+  "latest_version_code": 32,
+  "latest_version_name": "1.5.4",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.3/WA_RuntimeKit_1.5.3_release.apk",
-  "changelog": "## What's New in v1.5.3\n\n### \ud83d\uddbc\ufe0f Fiverr-Style Crisp Borders Everywhere\n- Added solid, crisp 1.5dp borders to all status cards (Module Enabled, WhatsApp, Business, Update Available)\n- Added crisp 1dp outline borders (`#CBD5E1`) to all Info Cards, Diagnostics Cards, and Backup Cards\n\n### \ud83d\udca7 Liquid Morphing Pill Navigation Bar\n- Added liquid morphing pill animation indicator (`LiquidPillIndicatorView`) that smoothly interpolates and stretches across tab selections",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.5.4/WA_RuntimeKit_1.5.4_release.apk",
+  "changelog": "## What's New in v1.5.4\n\n### \u26a1 100% Update Check Reliability Fix\n- **User-Agent Header Added:** GitHub API blocks or returns 403 Forbidden to requests without a `User-Agent` header. Added full custom `User-Agent` headers across all HTTP requests.\n- **Multi-Tier CDN Fallback:** App now checks raw CDN (`raw.githubusercontent.com`) first, bypassing GitHub API 60 req/hr IP rate limits on mobile carrier networks.\n- **Resilient Fallback Chain:** If CDN is unreachable, automatically falls back to GitHub API endpoints.",
   "force_update": false,
   "auto_update": false
 }
