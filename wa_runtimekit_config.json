@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 51,
-  "latest_version_name": "2.0.1",
+  "latest_version_code": 52,
+  "latest_version_name": "2.0.2",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.1/WA_RuntimeKit_2.0.1_release.apk",
-  "changelog": "## WA RuntimeKit v2.0.1 Update\n\n- Single-Line Action Button Centering in Update Dialog\n- Automated Versioning in About Modal\n- Clean Tools Page Text Alignment & Zero Overlap\n- WAEnhancer (Dev4Mod) Open-Source Attribution",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.2/WA_RuntimeKit_2.0.2_release.apk",
+  "changelog": "## WA RuntimeKit v2.0.2 Update\n\n- Auto Call Recording & Toast Toggles under Call Protection & Recording\n- Single-Line Action Button Centering in Update Dialog\n- Auto-Sync Versioning in About Modal\n- Clean Tools Page Layout & Zero Overlap",
   "force_update": false,
   "auto_update": false
 }
