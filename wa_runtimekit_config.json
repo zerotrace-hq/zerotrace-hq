@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 42,
-  "latest_version_name": "1.6.8",
+  "latest_version_code": 44,
+  "latest_version_name": "1.7.0",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.6.8/WA_RuntimeKit_1.6.8_release.apk",
-  "changelog": "## What's New in v1.6.8 \u2014 Calmed Emerald Palette & Direct In-App Update/Skip Prompt\n\n### \ud83c\udf3f Calmed Emerald Palette & Rich Neutrals\n- **Three Emerald Shades:** Adopted `#047857` (Primary Emerald), `#059669` (Accent Emerald), and `#ECFDF5` (Soft Mint Tint).\n- **Calmed Neutrals:** Slate off-white background (`#F8FAFC`), pure white card surfaces (`#FFFFFF`), dark charcoal body text (`#111827`), muted secondary text (`#6B7280`), and hairline neutral gray borders (`#E5E7EB`).\n- **Softer Floating Navigation:** Active pill rendered in soft mint tint `#ECFDF5`, active icon in `#059669`, active text in `#047857`, paired with Apple-style soft drop shadow.\n- **Visual Hero Telemetry:** Dark emerald status with small indicator dot (`\u25cf Active`), reserving bright emerald for the Runtime Pulse hero ring.\n\n### \ud83d\udcf2 In-App Direct Update Prompt\n- **Direct Update Dialog (`ComposeUpdateDialog`):** Automatically checks for updates on launch and presents an in-app dialog with direct **Update Now** and **Skip for Now** options.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.7.0/WA_RuntimeKit_1.7.0_release.apk",
+  "changelog": "## WA RuntimeKit v1.7.0 \u2014 UI Refresh & Update Checker\n\n- Compact Card & Sub-Option Density\n- 3-Accent Color Palette\n- Centered Floating Navigation\n- App Updates Card on Tools Screen",
   "force_update": false,
   "auto_update": false
 }
