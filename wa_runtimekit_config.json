@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 38,
-  "latest_version_name": "1.6.4",
+  "latest_version_code": 39,
+  "latest_version_name": "1.6.5",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.6.4/WA_RuntimeKit_1.6.4_release.apk",
-  "changelog": "## What's New in v1.6.4 \u2014 Brand Green #1DBF73 & About Modal\n\n### \ud83d\udc9a Fresh Brand Palette & About Screen\n- **Brand Green #1DBF73 Accent:** Updated primary action color to vibrant green `#1DBF73` for buttons, switches, and active indicators.\n- **Pure White Background:** Clean `#FFFFFF` background with razor-sharp dark charcoal body text `#404145`.\n- **Top Header Refinement:** `WA RuntimeKit` title text rendered cleanly over pure background with zero tint boxes.\n- **About Sheet Modal (`AboutModal`):** Added top-right Info icon button launching an interactive sheet with direct links to ZeroTrace GitHub Repository, Releases & Updates, and Engineering Team.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.6.5/WA_RuntimeKit_1.6.5_release.apk",
+  "changelog": "## What's New in v1.6.5 \u2014 OLED Dark Mode (Optimized Mint #26D07F)\n\n### \ud83c\udf19 OLED Dark Mode Implementation\n- **Optimized Bright Mint (`#26D07F`):** Bright mint action color tuned for high-contrast OLED dark themes.\n- **Deep Charcoal Black (`#121214`):** Pure dark background for battery efficiency & reduced eye strain.\n- **Elevated Card Container (`#1E1E22`):** Distinct surface layer for card components.\n- **Dark Charcoal Button Text (`#121214`):** High contrast dark text inside mint green action buttons (`onPrimary = DarkOnPrimary`).\n- **Subtle Divider Lines (`#2D2E32`):** Ultra-thin borders and item dividers.\n- **Dark Mode Toggle:** Integrated under *Style & Customization* -> *Theme & Palette Customization*.",
   "force_update": false,
   "auto_update": false
 }
