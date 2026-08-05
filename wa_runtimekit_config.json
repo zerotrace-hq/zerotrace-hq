@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 37,
-  "latest_version_name": "1.6.3",
+  "latest_version_code": 38,
+  "latest_version_name": "1.6.4",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.6.3/WA_RuntimeKit_1.6.3_release.apk",
-  "changelog": "## What's New in v1.6.3 \u2014 Nested Expandable Sub-Folders & Category Vaults\n\n### \ud83d\uddc2\ufe0f Clean Sub-Folder Category Organization\n- **Expandable Sub-Folder Vaults:** Grouped 100% of all features into nested category vaults (`ExpandableCategoryCard`) featuring circular accent icons, item subtitles, and smooth chevron rotation.\n- **Privacy Vaults:** Divided into *Stealth & Read Receipts*, *Typing & Presence Cloak*, *Anti-Delete & Revoke Vault*, and *Call Protection & Info*.\n- **General Vaults:** Divided into *Home Screen Toolbar & Header*, *Chat & Message Modifiers*, and *Status Stories & Channels*.\n- **Style Vaults:** Divided into *Theme & Palette Customization*, *Home Layout & Instagram Stories*, and *Animations & Iconography*.",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v1.6.4/WA_RuntimeKit_1.6.4_release.apk",
+  "changelog": "## What's New in v1.6.4 \u2014 Brand Green #1DBF73 & About Modal\n\n### \ud83d\udc9a Fresh Brand Palette & About Screen\n- **Brand Green #1DBF73 Accent:** Updated primary action color to vibrant green `#1DBF73` for buttons, switches, and active indicators.\n- **Pure White Background:** Clean `#FFFFFF` background with razor-sharp dark charcoal body text `#404145`.\n- **Top Header Refinement:** `WA RuntimeKit` title text rendered cleanly over pure background with zero tint boxes.\n- **About Sheet Modal (`AboutModal`):** Added top-right Info icon button launching an interactive sheet with direct links to ZeroTrace GitHub Repository, Releases & Updates, and Engineering Team.",
   "force_update": false,
   "auto_update": false
 }
