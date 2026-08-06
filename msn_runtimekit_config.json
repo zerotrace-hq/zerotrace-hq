@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 5,
-  "latest_version_name": "1.3.0",
+  "latest_version_code": 6,
+  "latest_version_name": "1.3.1",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/Messenger-RuntimeKit/releases/download/v1.3.0/Messenger-RuntimeKit-v1.3.0.apk",
-  "changelog": "v1.3.0 Release: Completely resolved Messenger startup ANR freezes by connecting all 26 features to single-pass CompatibilityManager DexKit cache. Added Targeted Contact Watchlist for Online Toast alerts, updated About modal credits, and added System Framework to LSPosed recommended scope.",
+  "apk_url": "https://github.com/zerotrace-hq/Messenger-RuntimeKit/releases/download/v1.3.1/Messenger-RuntimeKit-v1.3.1.apk",
+  "changelog": "v1.3.1 Release: Fixed Update Checker endpoints and resolved HTTP 404 errors during in-app update download.",
   "force_update": false,
   "auto_update": true
 }
