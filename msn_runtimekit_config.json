@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 8,
-  "latest_version_name": "1.4.0",
+  "latest_version_code": 9,
+  "latest_version_name": "1.4.1",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/Messenger-RuntimeKit/releases/download/v1.4.0/Messenger-RuntimeKit-1.4.0.E591CC40.apk",
-  "changelog": "v1.4.0 Engine Fix: Resolves DexKit native library loading, preference IPC fallback, and adds proof-of-life Toast indicator inside Messenger.",
+  "apk_url": "https://github.com/zerotrace-hq/Messenger-RuntimeKit/releases/download/v1.4.1/Messenger-RuntimeKit-1.4.1.E591CC40.apk",
+  "changelog": "v1.4.1 Update: Nuclear-grade Meta AI FAB and View-level floating badge elimination.",
   "force_update": false,
   "auto_update": true
 }
