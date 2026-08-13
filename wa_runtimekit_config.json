@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 56,
-  "latest_version_name": "2.0.6",
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.6/WA-RuntimeKit-v2.0.6.apk",
-  "changelog": "v2.0.6 Release: Fixed WhatsApp version update lockout dialog & enabled automatic dynamic DexKit hook resolution."
+  "latest_version_code": 58,
+  "latest_version_name": "2.1.0",
+  "apk_url": "",
+  "changelog": "v2.1.0 Release: Premium tactile UI, ambient gradients & refined micro-interactions."
 }
