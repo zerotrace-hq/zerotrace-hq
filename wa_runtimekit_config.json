@@ -1,9 +1,6 @@
 {
-  "latest_version_code": 54,
-  "latest_version_name": "2.0.4",
-  "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.4/WA_RuntimeKit_2.0.4_release.apk",
-  "changelog": "## WA RuntimeKit v2.0.4 Update\n\n- Block / Unblock Notification Listener & Toast Alerts\n- Tasker Intent Integration (user_blocked / user_unblocked)\n- Privacy Settings Controls for Block/Unblock Alerts",
-  "force_update": false,
-  "auto_update": false
+  "latest_version_code": 55,
+  "latest_version_name": "2.0.5",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.0.5/WA-RuntimeKit-v2.0.5.apk",
+  "changelog": "v2.0.5 Release: Added Subpage Navigation for feature groups and full R8 bytecode minification."
 }
