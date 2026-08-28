@@ -1,6 +1,9 @@
 {
-  "latest_version_code": 58,
-  "latest_version_name": "2.1.0",
-  "apk_url": "",
-  "changelog": "v2.1.0 Release: Premium tactile UI, ambient gradients & refined micro-interactions."
+  "latest_version_code": 62,
+  "latest_version_name": "2.2.2",
+  "min_required_version_code": 1,
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.2.2/WA-RuntimeKit-v2.2.2.apk",
+  "changelog": "### \ud83d\udee1\ufe0f Core Stability & Hook Crash Prevention\n- **Universal Type-Safe Result Dispatcher (`safeSetResult`):** Dynamically validates method return signatures against ART runtime expectations before assigning hook results. Eliminates `ClassCastException: Return value's type from hook callback does not match the hooked method` at the native LSPosed bridge.\n- **Fail-Closed Unobfuscator Hardening:** Ignores synthetic `void run()` and background lambda wrappers when resolving message revocation and status hooks.\n- **Audited Hook Return Contracts:** Refactored `AntiRevoke`, `CallPrivacy`, `AntiWa`, `Others`, `HideSeen`, `TypingPrivacy`, `SeparateGroup`, `CustomView`, `DefaultEmoji`, and `CustomTime` to eliminate type mismatches across future WhatsApp updates.\n- **Zero-Jank L1 Anti-Revoke Caching & 24h Clock Fixes:** Retains high performance and tactile UI smoothness.\n",
+  "force_update": false,
+  "auto_update": false
 }
