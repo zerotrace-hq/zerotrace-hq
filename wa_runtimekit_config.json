@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 62,
-  "latest_version_name": "2.2.2",
+  "latest_version_code": 63,
+  "latest_version_name": "2.2.3",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.2.2/WA-RuntimeKit-v2.2.2.apk",
-  "changelog": "### \ud83d\udee1\ufe0f Core Stability & Hook Crash Prevention\n- **Universal Type-Safe Result Dispatcher (`safeSetResult`):** Dynamically validates method return signatures against ART runtime expectations before assigning hook results. Eliminates `ClassCastException: Return value's type from hook callback does not match the hooked method` at the native LSPosed bridge.\n- **Fail-Closed Unobfuscator Hardening:** Ignores synthetic `void run()` and background lambda wrappers when resolving message revocation and status hooks.\n- **Audited Hook Return Contracts:** Refactored `AntiRevoke`, `CallPrivacy`, `AntiWa`, `Others`, `HideSeen`, `TypingPrivacy`, `SeparateGroup`, `CustomView`, `DefaultEmoji`, and `CustomTime` to eliminate type mismatches across future WhatsApp updates.\n- **Zero-Jank L1 Anti-Revoke Caching & 24h Clock Fixes:** Retains high performance and tactile UI smoothness.\n",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.2.3/WA-RuntimeKit-v2.2.3.apk",
+  "changelog": "### \ud83d\udee1\ufe0f WhatsApp Channel / Newsletter NPE Neutralization\n- **NewsletterMessageManager Guard:** Intercepts and neutralizes WhatsApp's internal `NullPointerException: Attempt to read from field 'boolean X.EwQ.A01' on a null object reference in method 'boolean X.FNZ.A06(X.1Ig, X.1Wd)'` across background revocation threads.\n- **Fail-Safe Background Crash Suppressor:** Global uncaught exception handler in `FeatureLoader` safely suppresses non-fatal internal WhatsApp background worker exceptions, preventing boot-loops and eliminating intrusive crash dialogs.\n- **Dynamic Type Safety:** Preserves `safeSetResult` runtime type-safety across all hooks.\n",
   "force_update": false,
   "auto_update": false
 }
