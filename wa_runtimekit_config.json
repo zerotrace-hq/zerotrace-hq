@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 63,
-  "latest_version_name": "2.2.3",
+  "latest_version_code": 80,
+  "latest_version_name": "3.0.0",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v2.2.3/WA-RuntimeKit-v2.2.3.apk",
-  "changelog": "### \ud83d\udee1\ufe0f WhatsApp Channel / Newsletter NPE Neutralization\n- **NewsletterMessageManager Guard:** Intercepts and neutralizes WhatsApp's internal `NullPointerException: Attempt to read from field 'boolean X.EwQ.A01' on a null object reference in method 'boolean X.FNZ.A06(X.1Ig, X.1Wd)'` across background revocation threads.\n- **Fail-Safe Background Crash Suppressor:** Global uncaught exception handler in `FeatureLoader` safely suppresses non-fatal internal WhatsApp background worker exceptions, preventing boot-loops and eliminating intrusive crash dialogs.\n- **Dynamic Type Safety:** Preserves `safeSetResult` runtime type-safety across all hooks.\n",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v3.0.0/WA_RuntimeKit_3.0.0_release.apk",
+  "changelog": "### 🚀 WA RuntimeKit v3.0 Major Overhaul\n- **APK Size Reduced by 52%:** Shrunk from 71.5 MB to 33.9 MB with single arm64-v8a architecture & R8 tree-shaking.\n- **Dead Features Purged:** Removed legacy custom CSS engine, floating bar, separate groups, IG status & old tasker hooks.\n- **100% Resource Safety:** All UI strings & drawables unified through moduleContext to permanently eliminate Resources.NotFoundException.\n- **SeenTick 120 FPS Optimization:** Pre-cached Drawable.ConstantState wrappers with zero bitmap copying on UI thread.\n- **View-Once Auto-Saver:** Automatically saves view-once media to Download/WhatsApp/ViewOnce/.\n- **FLAG_SECURE Remover:** Bypass screenshot & screen recording blocks on view-once media and secret chats.\n- **Force External Browser:** Seamlessly open links in your default system browser.\n- **Chat Forensics / Message Counter:** Real-time SQLite statistics & message breakdown per contact.\n- **Status Anti-Delete Auto-Archiver:** Automatically preserves deleted contact statuses to local storage.\n",
   "force_update": false,
   "auto_update": false
 }
