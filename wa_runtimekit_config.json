@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 80,
-  "latest_version_name": "3.0.0",
+  "latest_version_code": 81,
+  "latest_version_name": "3.0.1",
   "min_required_version_code": 1,
-  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v3.0.0/WA_RuntimeKit_3.0.0_release.apk",
-  "changelog": "### 🚀 WA RuntimeKit v3.0 Major Overhaul\n- **APK Size Reduced by 52%:** Shrunk from 71.5 MB to 33.9 MB with single arm64-v8a architecture & R8 tree-shaking.\n- **Dead Features Purged:** Removed legacy custom CSS engine, floating bar, separate groups, IG status & old tasker hooks.\n- **100% Resource Safety:** All UI strings & drawables unified through moduleContext to permanently eliminate Resources.NotFoundException.\n- **SeenTick 120 FPS Optimization:** Pre-cached Drawable.ConstantState wrappers with zero bitmap copying on UI thread.\n- **View-Once Auto-Saver:** Automatically saves view-once media to Download/WhatsApp/ViewOnce/.\n- **FLAG_SECURE Remover:** Bypass screenshot & screen recording blocks on view-once media and secret chats.\n- **Force External Browser:** Seamlessly open links in your default system browser.\n- **Chat Forensics / Message Counter:** Real-time SQLite statistics & message breakdown per contact.\n- **Status Anti-Delete Auto-Archiver:** Automatically preserves deleted contact statuses to local storage.\n",
+  "apk_url": "https://github.com/zerotrace-hq/WA-RuntimeKit/releases/download/v3.0.1/WA_RuntimeKit_3.0.1_release.apk",
+  "changelog": "### ⚡ WA RuntimeKit v3.0.1 Hotfix & Refinement\n- **Pure English Resource Overhaul:** Purged all 12 foreign language directories, reducing binary size to 32.6 MB.\n- **Complete Branding Purge:** Renamed legacy notification channels to wa_runtimekit and removed all waenhancer traces.\n- **Live Revoked Vault Telemetry:** Revoked Vault card now displays dynamic SQLite message count from DelMessageStore.\n- **Safe AntiUpdater:** Gated update blocker behind disable_wa_updates toggle to allow official WhatsApp updates.\n- **120 FPS Message Scrolling:** In-memory caching for anti-revoke preference values to eliminate UI-thread Binder queries.\n- **Thread Safety:** Atomic volatile runtime configuration to prevent multi-process state corruption.\n",
   "force_update": false,
   "auto_update": false
 }
